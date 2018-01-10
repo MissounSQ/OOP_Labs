@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Problems/Second/OOP/lab3/main.cpp
+iostream
+-
+wav_core.hpp
+D:/Problems/Second/OOP/lab3/wav_core.hpp
+
+D:/Problems/Second/OOP/lab3/wav_core.cpp
+cstring
+-
+wav_core.hpp
+D:/Problems/Second/OOP/lab3/wav_core.hpp
+
+D:/Problems/Second/OOP/lab3/wav_core.hpp
+vector
+-
+fstream
+-
+iostream
+-
+wav_header.hpp
+D:/Problems/Second/OOP/lab3/wav_header.hpp
+wav_exceptions.hpp
+D:/Problems/Second/OOP/lab3/wav_exceptions.hpp
+
+D:/Problems/Second/OOP/lab3/wav_exceptions.hpp
+exception
+-
+iostream
+-
+
+D:/Problems/Second/OOP/lab3/wav_header.hpp
+cstdint
+-
+
