@@ -1,3 +1,4 @@
+//Реализовано при помощи моего одногруппника, Артёма Головко
 #ifndef LAB4_THREADPOOL_HPP
 #define LAB4_THREADPOOL_HPP
 #include <cstdlib>
