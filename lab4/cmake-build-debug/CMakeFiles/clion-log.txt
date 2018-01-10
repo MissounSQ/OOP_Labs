@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Problems\Second\OOP\lab4
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   thread
+--   chrono
+--   system
+--   date_time
+--   atomic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Problems/Second/OOP/lab4/cmake-build-debug
